@@ -25,7 +25,9 @@ The purpose of this analysis is to evaluate the credit risk of loans using a log
 **Logistic Regression Model:**
 
 - **Confusion Matrix:**
+
 [[14924    77]
+
  [   31   476]]
 
 **Classification Report:**
