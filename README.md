@@ -57,7 +57,7 @@ This model is recommended for use, particularly when minimizing missed high-risk
 
 ## References 
 
-ChatGPT and Xpert Learning Assistant were used for README outline and format, and troubleshooting errors for this project assignment.
+ChatGPT and Xpert Learning Assistant were used for analysis reference and troubleshooting errors for this project assignment.
 
 - OpenAI. (December, 2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
 
