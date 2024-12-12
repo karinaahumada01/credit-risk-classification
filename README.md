@@ -53,3 +53,12 @@ The purpose of this analysis is to evaluate the credit risk of loans using a log
 **Recommendation:**
 
 This model is recommended for use, particularly when minimizing missed high-risk loans is critical. However, if reducing false positives for high-risk loans is important, further adjustments may be required.
+
+
+## References 
+
+ChatGPT and Xpert Learning Assistant were used for README outline and format, and troubleshooting errors for this project assignment.
+
+- OpenAI. (December, 2024). ChatGPT (GPT-4) [Large language model]. https://chat.openai.com/ Xpert Learning Assistant was used for troubleshooting errors for this project assignment.
+
+- Xpert Learning Assistant. (2024). Retrieved from https://bootcampspot.instructure.com/
